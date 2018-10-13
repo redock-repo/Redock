@@ -1,0 +1,9 @@
+venv
+.vscode
+.idea
+
+config/config.json
+
+**/__pycache__
+
+TODO
